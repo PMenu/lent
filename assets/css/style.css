@@ -16,11 +16,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #ffffff;
+  color: #365d61;
 }
 
 a:hover {
-  color: #ffffff;
+  color: #365d61;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffffff;
+  background: #365d61;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #ffffff;
+  background: #365d61;
   color: #fff;
 }
 .back-to-top.active {
@@ -88,10 +88,10 @@ section {
   margin: 15px 0 0 0;
   font-size: 32px;
   font-weight: 700;
-  color: #ffffff;
+  color: #365d61;
 }
 .section-title h2 span {
-  color: #ffffff;
+  color: #365d61;
 }
 .section-title p {
   margin: 15px auto 0 auto;
@@ -136,16 +136,16 @@ section {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  color: #ffffff;
+  color: #365d61;
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #ffffff;
+  border: 2px solid #365d61;
   border-radius: 50px;
 }
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #ffffff;
+  background: #365d61;
 }
 .menu #menu-flters li:last-child {
   margin-right: 0;
@@ -161,7 +161,7 @@ section {
   position: relative;
   z-index: 3;
   font-weight: 700;
-  color: #ffffff;
+  color: #365d61;
 }
 .menu .menu-content::after {
   position: absolute;
